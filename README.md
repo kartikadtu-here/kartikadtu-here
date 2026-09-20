@@ -357,16 +357,16 @@ I care about interfaces that feel **premium, minimal, technical, interactive, sm
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ee6a8&icon_color=3ee6a8&text_color=c9d1d9&ring_color=3ee6a8" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ee6a8&text_color=c9d1d9" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kartikadtu-here&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ee6a8&icon_color=3ee6a8&text_color=c9d1d9&ring_color=3ee6a8" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikadtu-here&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ee6a8&text_color=c9d1d9" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3ee6a8&fire=3ee6a8&currStreakLabel=3ee6a8" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=kartikadtu-here&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3ee6a8&fire=3ee6a8&currStreakLabel=3ee6a8" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="Profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikadtu-here&theme=github_dark" alt="Profile details"/>
 
 </div>
 
@@ -374,8 +374,8 @@ I care about interfaces that feel **premium, minimal, technical, interactive, sm
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikadtu-here/kartikadtu-here/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/kartikadtu-here/kartikadtu-here/output/github-snake.svg" width="100%"/>
   </picture>
 </div>
 
@@ -385,9 +385,9 @@ I care about interfaces that feel **premium, minimal, technical, interactive, sm
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3ee6a8"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3ee6a8"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3ee6a8"/></a>
+<a href="https://github.com/kartikadtu-here"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3ee6a8"/></a>
+<a href="https://www.linkedin.com/in/kartikatcyb"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3ee6a8"/></a>
+<a href="mailto:vortexvoiddev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3ee6a8"/></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3ee6a8"/></a>
 
 <br/><br/>
