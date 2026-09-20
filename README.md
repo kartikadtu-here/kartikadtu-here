@@ -1,211 +1,262 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=KARTIK%20GUPTA&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20%7C%20FULL-STACK%20%7C%20AI%20PRODUCT%20BUILDER&descSize=17&descAlignY=58&animation=fadeIn&color=0:050505,50:111111,100:050505" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,100:1b8a6b&text=KARTIK%20GUPTA&fontColor=e6edf3&fontSize=54&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Cybersecurity%20%C2%B7%20AI%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Kartik Gupta banner" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&height=55&lines=I+BUILD+THINGS+THAT+ACTUALLY+WORK.;CYBERSECURITY+%2B+FULL-STACK+%2B+AI.;TURNING+IDEAS+INTO+REAL+PRODUCTS.;BUILD.+BREAK.+SECURE.+SHIP." />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/kartikatcyb">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3EE6A8&center=true&vCenter=true&width=760&lines=I+don%27t+just+learn+technologies.+I+build+with+them.;BCA+student+%C2%B7+Full-Stack+Developer;Cybersecurity+enthusiast+%C2%B7+Kali+%C2%B7+Burp+%C2%B7+Wireshark;AI+product+builder+%C2%B7+LLM+apps+%C2%B7+Agents+%C2%B7+Voice+AI;Shipping+real+products+and+security+labs" alt="Typing animation"/>
 </a>
 
-<a href="https://github.com/kartikadtu-here">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<br><br>
+<img src="https://img.shields.io/badge/BCA-Student-0d1117?style=for-the-badge&labelColor=161b22&color=3ee6a8" alt="BCA Student"/>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-0d1117?style=for-the-badge&labelColor=161b22&color=3ee6a8" alt="Full-Stack"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-0d1117?style=for-the-badge&labelColor=161b22&color=3ee6a8" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/AI-Product%20Builder-0d1117?style=for-the-badge&labelColor=161b22&color=3ee6a8" alt="AI Product Builder"/>
 
-<img src="https://komarev.com/ghpvc/?username=kartikadtu-here&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=1b8a6b&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&labelColor=161b22&color=1b8a6b" alt="Followers"/>
 
 </div>
 
----
+<br/>
 
+<!-- ═══════════════════════════ PORTRAIT ═══════════════════════════ -->
 <div align="center">
-
- WHOAMI
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1400&pause=600&color=00FF88&center=true&vCenter=true&width=900&height=180&lines=%24+whoami;%3E+Kartik+Gupta;%24+cat+%2Fetc%2Fprofile;%3E+BCA+%7C+Developer+%7C+Cybersecurity+Enthusiast;%3E+Full-Stack+Engineer;%3E+AI+Product+Builder;%3E+Linux+%2B+Cloud+%2B+Security;%24+./build_something.sh;%3E+SYSTEM+READY..." />
-
+  <img src="./assets/portrait-ascii.svg" alt="ASCII portrait of Kartik Gupta" width="520"/>
 </div>
 
-<br>
+<br/>
+
+<details>
+<summary><b>▸ Prefer plain text? Open the raw ASCII portrait</b></summary>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   KARTIK GUPTA                                                       │
-│                                                                      │
-│   I like turning ideas into working software.                       │
-│                                                                      │
-│   My interests sit at the intersection of:                          │
-│                                                                      │
-│   CYBERSECURITY     FULL-STACK     AI PRODUCTS     UI/UX             │
-│                                                                      │
-│   I learn by building.                                               │
-│   I break what I build.                                              │
-│   Then I secure it.                                                  │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+
+
+                                                       =====+*+++=
+                                       =--==--+*+===+*+-+*+=+**+=++++++=
+                                  ==--====++=+**+**++=*#*+++===-+*+*#****+++===
+                              --===+==--==+*++****-=+*++=---=-=-:+*++==++***++++=====
+                         ------=+*+=:===++=+==**+++=-=::-=::=-=--==+-:-+==-=-+++++++*+++
+                       -------==+++-:=--+=--=:-+-::-===++::+*#===*==-::---+-:----==*+++++=
+                      ----====+*+==-==++#+=-..:++=:::-=====+-++=++==-..:==#=-.--::-=++++++*
+                     ---==++*#**+--=-:=%#=....:--:.......::-:....-+*+--=**+*+++-::---=+=+##*+
+                    ----=+*++++*-...:=%#=..--*#-==-........:=-...::.::-*#+*+=+*===-.:::-=*#*+++
+                   --===*#+*=+*:....-%%=:=:.-%*=--=:..--=+==+#-::=:-=+*+-.::=*.:++==-..-::=*##++
+                   --=*#==*##%*:...-#%+::::+:..=#*=----*+***+-==--=..:::=*-.==.:=+++**:.::=+++**++
+                  -=+#%**+-+%%=--:=##+-:-::::-...=**==++*#*++*=-.::==--=+%+:....=+=-=+#+-.=+*-****+
+                 ==+#%##=-+##+##*=+%%#+==*+=::....:=+++:..=*+====-::::-=+:..-:::=+:.::-*******=-##++
+                =+*%%#%#==+=*#%*+*@@@%**#+--==-.:.--*+=-...:-=+++=-:---:.::..:=++---::.-+#%##*++-=+*
+                =*##%##=::=***=+=*###*+++:-**=+::=-::=+=:....==........:--.........::--++=**=*##+-==+
+                *+*+*=:...--++::=+*%%*#*-=##*+=--:.:...::.:-:......-=+=-+=+=.:::...+-..:+##%#---+*=-=
+                **-::.....-:::.+%+*=+#%#+##----:::::..---+=--....:==+%*+--++-.-.:-=:-----+#*#*-:-:-=+
+                =-.:-.........=*+..*%%%#+=.......::..:+=+%*=*=+=.:++*=:...-==:..:=:..-*:-:-=-=*+=::-=+
+                =:..:.........-=*..:.:-:............:+*+==+++==--+*-....-+#:...---....:=-...==-::-..-*
+                =.-.........:...+*...-+-:...........--:.:...:-=-==:..==:=*+:-.:+*-=......:::=+=:::-:+
+                =--........:::-::==:-.-:=+-..:==-....-:.:::::===+=::.-****#=-.:+*=*+=+.....-=:.....-
+                =+=........:-:--=+*+=-..:::===-:....:==++=-+++++-...-:-=***-..:--=*+#=...::--:....:+
+                -==.......--:--==*####*.::.:....-:.::-=-:::..-:......::=---=:....:+--++-+++=:....:=
+                --+*+=...:=--:--+#%%%%##+-:---====+====---::::===.....:-=:.......-=:.:*++-::..::=+
+                :*%*##*-.=*=-:-=#%@@%@@@#*+==--:....-=+##**#%###*+....===-::..:---:::-==++...:+++
+                -%+=***++*##=--*@@@@@@%##***++++=:......:+#%%%##*-...:=-.-:--:::--=++--===-:-=+**
+                **=#@#***#%#*=+%@@@@@%%#*++=-=====-::--:..-+==++-.:::.:-..:........::=+*=--=+***
+                #+#%##**++#%#*%@@@@@%#*+=--:---::..::::=++++++++-::-::..............:::+*:-==++
+                **%*==--=+%%*#@@@@@@%#+=--:--+-....=+-::-=+++***+-..--:-::....:-===++++++-+#==
+                +##=--==*@@%*%@@@@@@%##*+======-::===:..:-=++*#*+=-:..........:===-=+**#+*%%+
+                -%%=:-=+%#@%#%%@@@@@@@%#**++=---::::...:-=+++*#*+--:..........:*-:=-=+#%**+=
+                .#**++==++%#*#%%%@@@@@@%%#***+==--:::--=++**#%%#*=-:........:=##*=--=+#%*-=:
+                .=%#%@#=-=##*##%%%%@@@%%##***++===-==+***##@@@@%#*+-:.:....:-===++***#%#*+:
+                .:#@%#*+**+%#####%%%###*****+++++**####%%@@@@@@%##*===------===+*##%%%@#*:.
+                :::*%##*+++%%%%####*********###%%%%%###%%@@@@@@@%%#*+++*+===+*#%%%@@@@@#-:
+                 :::=****+=#%%%###****+***##%%%%%####**#%%@@@@@@%@%%*++*###**#%%@@@@@@%+::
+                       ---*%%%%#****+***##%%%%%%%##*++*%@@@@@@@%%%%%#++#%%%%%%%%%%%%%%*-::
+                        ::+%@%%#******##%%%%%%%%##**+=%@@%#**##******%#*#%%%@@%%%####*-:-
+                         .-%%%%##*####%%%%%@@%%%####*=*=:....==--:..-+**##%%%%##**++*=--
+                          -#%%%#######%%%%@@@@@%%%%%##*=:-==-:......:+#########*+==+-::
+                          -########%%%%%@@%@@@@@@%%%#**+=:....:..:=#%@@%%%#####*+=+-:::
+                          -###*####%%%%%%%%%%%#+===---::..........:+#%@@%%%###**===:::
+                         ::#*+*###%%%%%%%%%%#+-:.:-===::::--=++=:-..:=*#%%%#***++=:::
+                         ::%#+=**######%%%%#+-:..........:::::....:-::.:=##***++=:::
+                        :::%%#+=+***#######**++++=---===:...............-*#****+:::
+                        ..:%%#*+-=+**#**##****#####*++**##**###*+-....::=****+-:::
+                       .::+%%##*+-:-+**####*###*#*##**+===+++====+*#*+=+***++-::::
+                       :+%#%%##*++-:-=+##%%####****++==:....::-=+****+++*++-:::::
+                      -*@*+%%#***++=---+#%%%%%%%%#**++=-::.::--==+*+***+=-::::::
+                     :=@@#*%%#***+++==+--*#%%%%%%%%%%%#***+******####*+-::::----
+                    -:@@@@#%##***++++++=-:-===++***###*+++*#%%%%%%%#**+::::----
+                  *+-=@@@@@###***+++++++=-....:::-::---::-===+***+==*#@=::-----
+                *++=-.+@@@@@%****+++*+++==:..............::..::...=*###@-----=
+              **+=-::..*@@@@@@#*+++***+++===-:...................+*###*@#---==
+            **++==-:::..*@@@@@@@#*+++***+++++++=--:...........:=+*###=+@@--===
+           +==----:::::..+@@@@@@@@%*++++++++++++*++=---::::-=++**###*.*@@=:==+++=
+         +=--:-:::::::....=%@@@@@@@@@#*++++++++**+++++===+++*****##*:.#@@#.-=====++=
+      +++==----::-::::::...=%@@@@@@@@@@%#+======+++++++===++****#*+:.+%@@%..-==::::---==
+  =-:.=====----:---:--::::..-#%@@@@@@@@@@@%*=---====+++==++******=:.:%@@@@:..=+=-::::::::-==
+=-....+=------:::----:::::...:*%@@@@@@@@@@@@%%*=--==+++++++++**+-:..#%@@@@=..:=++=:..:.....:---=
+::....+=--------:::-:-:::::...:*%@@@@@@@@@@@@%%%#+=--====++++++-...*%@@@@@*...:=+++-:.::.....:::---=
+::....+-::------------:::......:+#%@@@@@@@@@@@@@%@%#+======+++-:..+%@@@@@@%...:--=++=-..:::....:::::---=
+:::..:+-:------====--:-:.........+#%@@@@@@@@@@@@@@@@@@#*======:..+%@@@@@@@@:..::---=++=::..::......::::-----=
+--:..-=--::---====---::..:........+#%@@@@@@@@@@@@@@@@@@@@#***=--#@@@@@@@@@@*...:-----==+=:.:---....::::::::::----===
+-:::.==-------====-::.::....:.....:+#%%@@@@@@@@@@@@@@@@%*####%%%%#%@@@@@@@@#=..:---------=-:--.......:::::::::::::--==-=
+-----.....:::-==--:::-:.:::.:::.....=#%%%@@@@@@@@@@@@#####%##*=-:...-#@@@@@%*:..:----=-::---........:...::::::::::::----
+------::.........:-::::::::::::::....=#%%@@@@@@@@@#----:-::...........=#@@@@#=..::----=-::-:.:::......:::::::::::::::::-
+----------:::::--::--::::--::::::.....=#%%@@@@@@+.....:.......::::...===*%@@#+...:------:---:.:::---:...::::::::::::::--
+--------=-==--:::::--------::::::.:....=#%@@@@*-....:--::::::::--::.=+***+#@%+:..:--------===-:::::---.:::::::.::.:::::-
+=-----::-=--::----------::-::::::::.....=#%%*===-....:-----::------=**####+*%*-..:-----=-:--=--:---:--:::-::-:::::::::::
+=-----:..-=----------:---::::::::::......=++++***+=:...:----::::--=#%%%%%@%*+*=...:-------:::::::-----:::::----::::::::-
+-------:..:--------------::::::::::.......+###*####*=...::--::::--*%@@@@@@@%*++-..:--------------------:::--::-::::....:
+===-----:..:------------:::::::...:.......:*%%##%%#*##-....:-::--=#%%@@@@@@@#**+..::------==--:---::---.::::::--::::::::
 ```
 
----
+</details>
 
+<br/>
+
+<!-- ═══════════════════════════ TERMINAL ═══════════════════════════ -->
 <div align="center">
-
- 02  CURRENTLY BUILDING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&height=160&lines=%5B+BOOTING+PROJECTS...+%5D;%5B+01+%5D+AI+PRODUCTS;%5B+02+%5D+CYBERSECURITY+LABS;%5B+03+%5D+FULL-STACK+APPLICATIONS;%5B+04+%5D+AI+AGENTS;%5B+05+%5D+AUTOMATION;%5B+SYSTEM+STATUS%5D+ONLINE" />
-
-</div>
-
-
-
- 03  WHAT I'M GOOD AT
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1100&pause=500&color=00FF88&center=true&vCenter=true&width=950&height=280&lines=%5BSCAN%5D+Analyzing+skillset...;%5B01%5D+FULL-STACK+ENGINEERING++++%5B███████████████████░%5D;%5B02%5D+JAVASCRIPT+%2F+TYPESCRIPT+++%5B██████████████████░░%5D;%5B03%5D+CYBERSECURITY++++++++++++++%5B████████████████░░░░%5D;%5B04%5D+AI+PRODUCT+ENGINEERING+++++%5B█████████████████░░░%5D;%5B05%5D+UI+%2F+UX+ENGINEERING++++++++%5B██████████████████░░%5D;%5B06%5D+LINUX+%26+DEVOPS++++++++++++%5B███████████████░░░░░%5D;%5B07%5D+PRODUCT+BUILDING+++++++++++%5B███████████████████░%5D;%5BSTATUS%5D+SKILLS+LOADED." />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,php,mysql,postgres,supabase,docker,linux,kali,git,github,cloudflare&perline=10" />
-
+  <img src="./assets/terminal.svg" alt="Terminal introduction" width="100%"/>
 </div>
 
 ---
 
-04 TECH STACK
+## 👋 About Me
 
-<div align="center">
+I'm a **BCA student and hands-on developer** working at the intersection of **cybersecurity, full-stack development, and AI product engineering**.
 
- LANGUAGES
+My learning style is practical. I'd rather build a project, break it, debug it and ship it than sit through theory-heavy study. That's why my profile is full of **products and labs**, not just course certificates.
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash" />
+> ### 💬 *"I don't just learn technologies. I build with them."*
 
-<br><br>
-
- FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-<br><br>
-
-BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,supabase" />
-
-<br><br>
-
- SECURITY / INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,cloudflare" />
-
-</div>
+| | |
+|---|---|
+| 🎓 **Background** | BCA student |
+| 🔨 **Focus** | Full-stack apps · AI products · security labs |
+| 🛡️ **Security** | Web app security, OWASP, Kali Linux, defensive foundations |
+| 🤖 **AI** | LLM-powered apps, agents, automation, Voice AI |
+| 🎨 **Design taste** | Premium · minimal · technical · interactive · distinctive |
+| 🧭 **Direction** | Cybersecurity engineering × AI product engineering × full-stack |
 
 ---
 
-<div align="center">
-
-05  SECURITY MODE
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1200&pause=600&color=00FF88&center=true&vCenter=true&width=900&height=220&lines=%24+sudo+./security.sh;%3E+Initializing+Kali+Linux...;%3E+Loading+network+security+modules...;%3E+Loading+HTTP%2FDNS%2FTCP-IP...;%3E+Loading+OWASP+methodology...;%3E+Loading+Burp+Suite...;%3E+Loading+Wireshark...;%3E+Loading+SIEM+%2F+log+analysis...;%3E+MITRE+ATT%26CK+knowledge+base...;%5B+SECURITY+LAB+ONLINE+%5D" />
-
-</div>
-
-<br>
-
-```text
-NETWORK
-   │
-   ├── TCP/IP
-   ├── DNS
-   ├── HTTP
-   └── Authentication
-          │
-          ▼
-       WEB SECURITY
-          │
-   ┌──────┼────────┐
-   ▼      ▼        ▼
- OWASP   BURP   API SECURITY
-          │
-          ▼
-    DETECTION / ANALYSIS
-          │
-   ┌──────┼──────────┐
-   ▼      ▼          ▼
- WIRESHARK  SIEM   MITRE ATT&CK
-```
-
-
-
-06  SELECTED BUILDS
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&height=50&lines=%3E+Loading+portfolio...;%3E+Fetching+selected+builds...;%3E+Projects+loaded." />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,php,java,c,cpp,bash&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/>
+
+**Backend &amp; Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql,supabase&theme=dark" alt="Backend and databases"/>
+
+**Linux, DevOps &amp; Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,cloudflare,vscode,powershell&theme=dark" alt="DevOps and tools"/>
 
 </div>
 
-<br>
+<details open>
+<summary><b>📋 The full breakdown</b></summary>
+<br/>
+
+| Area | What I work with |
+|:--|:--|
+| **💻 Languages** | Python · JavaScript · TypeScript · Java · C/C++ · PHP · HTML · CSS · Bash |
+| **🖥️ Frontend** | React · Next.js · Tailwind CSS · responsive design · component-based architecture · dashboards · landing pages · SaaS interfaces · animation-heavy UI |
+| **⚙️ Backend** | Node.js · Express · PHP · REST APIs · authentication systems · server-side logic · database integration |
+| **🗄️ Databases** | PostgreSQL · MySQL · Supabase · SQL · schema design · Row Level Security (RLS) · Supabase Auth · triggers · user/profile systems |
+| **🔐 Security** | OWASP Top 10 · web app &amp; API testing · authentication/session security · reconnaissance · input validation · Kali · Burp Suite · Wireshark · Nmap · Juice Shop |
+| **🐧 Linux** | CLI · Bash · permissions · processes · package management · networking commands · VMs · dev environments |
+| **🐳 DevOps** | Git · GitHub · Docker · Docker Compose basics · env variables · Cloudflare · deployment concepts |
+| **🤖 AI** | Prompt engineering · LLM apps · AI workflow design · agents · automation · AI feature integration |
+| **🎙️ Voice AI** | Speech-to-text · text-to-speech (Kokoro TTS) · voice assistant architecture · conversational AI |
+| **🎨 UI/UX** | Glassmorphism · claymorphism · motion design · scroll animations · micro-interactions · 3D/WebGL-inspired interfaces · typography · visual hierarchy |
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools I use day to day</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Antigravity%20IDE-0d1117?style=flat-square&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&logo=virtualbox&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/XAMPP-0d1117?style=flat-square&logo=xampp&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=3ee6a8"/>
+<img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=3ee6a8"/>
+
+</details>
+
+---
+
+## 📦 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🧠 AI Syllabus Planner
+### 🏛️ TenderOS
+**Full-stack tender intelligence &amp; workspace platform**
 
-AI-powered academic planning platform designed to transform a syllabus into a structured personalized study workflow.
+Modern SaaS workspace with authentication, user profiles and database-level security.
 
-**Stack**
+`Next.js` `Supabase` `PostgreSQL` `RLS` `Auth` `DB Triggers`
 
-`AI` `Next.js` `Supabase` `SaaS`
+<sub>▸ Workspace architecture · Row Level Security · profile triggers</sub>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🛡️ TenderOS
+### 📚 AI Syllabus Planner
+**AI-powered academic planning product**
 
-Full-stack workspace platform focused on tender intelligence and organized business workflows.
+Personalized study planning for students, built as a SaaS with monetization in mind.
 
-**Stack**
+`AI` `SaaS` `Modern UI/UX` `Product`
 
-`Next.js` `Supabase` `PostgreSQL` `Auth`
+<sub>▸ Personalized planning · student productivity</sub>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-## 🏥 ClinicFlow
+### 🏥 ClinicFlow
+**Clinic &amp; appointment management app**
 
-Modern clinic workflow and appointment management application.
+Appointment workflows and dashboards backed by a real database and authentication.
 
-**Stack**
+`Full-Stack` `Auth` `Database` `Dashboard`
 
-`Full-Stack` `Database` `Authentication` `Dashboard`
+<sub>▸ Appointment flows · dashboard interfaces</sub>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🔐 Cybersecurity Lab
+### 🛡️ Cybersecurity Lab
+**Hands-on security environment**
 
-Hands-on security environment for experimenting with web security, networking and defensive analysis.
+Practical web and defensive security learning on intentionally vulnerable targets.
 
-**Stack**
+`Kali Linux` `Docker` `Juice Shop` `Burp Suite` `Wireshark`
 
-`Kali Linux` `Docker` `OWASP` `Burp` `Wireshark`
+<sub>▸ Recon · web testing · traffic analysis</sub>
 
 </td>
 </tr>
@@ -213,166 +264,142 @@ Hands-on security environment for experimenting with web security, networking an
 
 ---
 
-<div align="center">
-
-# `07 // BUILD PROCESS`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1000&pause=500&color=00FF88&center=true&vCenter=true&width=950&height=60&lines=IDEA+→+RESEARCH+→+DESIGN+→+BUILD+→+BREAK+→+SECURE+→+SHIP" />
-
-<br>
+## 🛡️ Cybersecurity Lab
 
 ```text
-                 ┌─────────────┐
-                 │    IDEA     │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │   RESEARCH  │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │   DESIGN    │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    BUILD    │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    BREAK    │◄───────────────┐
-                 └──────┬──────┘                │
-                        │                       │
-                        ▼                       │
-                 ┌─────────────┐                │
-                 │   SECURE    │────────────────┘
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    SHIP     │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │   USERS     │
-                 └─────────────┘
+┌──────────────────────── KALI LINUX (VM) ────────────────────────┐
+│                                                                  │
+│   Nmap ──▶ recon        Burp Suite ──▶ intercept / tamper        │
+│   Wireshark ──▶ packet analysis       Bash ──▶ automation        │
+│                                                                  │
+└───────────────────────────────┬──────────────────────────────────┘
+                                │  HTTP / HTTPS
+                                ▼
+                 ┌──────────────────────────────┐
+                 │  DOCKER · OWASP JUICE SHOP   │
+                 │  intentionally vulnerable    │
+                 └──────────────────────────────┘
 ```
 
+**Focus areas:** OWASP Top 10 · authentication &amp; session testing · API security · input validation · reconnaissance · responsible bug bounty methodology.
+
+> 🔒 All testing happens in my own isolated lab against intentionally vulnerable targets.
+
+---
+
+## 🚀 How I Build Products
+
+<div align="center">
+  <img src="./assets/pipeline.svg" alt="Product engineering pipeline from idea to iteration" width="100%"/>
+</div>
+
+<br/>
+
+**What I work on:** MVPs · SaaS products · AI products · automation tools · developer tools · security products · dashboards · internal tools · business applications
+
+---
+
+## 🎯 Career Direction
+
+```text
+                 ┌─────────────────┐
+                 │  CYBERSECURITY  │
+                 └────────┬────────┘
+                          │
+                          ▼
+┌──────────────┐    ┌───────────────┐    ┌──────────────┐
+│  FULL-STACK  │───▶│    PRODUCT    │◀───│      AI      │
+│ DEVELOPMENT  │    │  ENGINEERING  │    │ ENGINEERING  │
+└──────────────┘    └───────┬───────┘    └──────────────┘
+                            │
+                            ▼
+                     REAL PRODUCTS
+                            │
+                            ▼
+                          USERS
+```
+
+**Long-term interests:** cybersecurity engineering · AI product engineering · full-stack development · AI agents · SaaS · entrepreneurship
+
+---
+
+## 🌱 Currently Learning
+
+*Honest status: these are areas I'm actively **developing**, not claiming mastery in.*
+
+| Topic | Status |
+|:--|:--|
+| 🔎 SOC analysis · SIEM · log analysis · IOC analysis | ![](https://img.shields.io/badge/-in%20progress-1b8a6b?style=flat-square) |
+| 🎯 MITRE ATT&amp;CK · threat detection · incident analysis | ![](https://img.shields.io/badge/-in%20progress-1b8a6b?style=flat-square) |
+| 🐞 Bug bounty · advanced web exploitation | ![](https://img.shields.io/badge/-learning-30363d?style=flat-square) |
+| 🤖 AI agent architectures · tool calling · multi-step workflows | ![](https://img.shields.io/badge/-in%20progress-1b8a6b?style=flat-square) |
+| 🧠 Advanced LLM applications · AI product management | ![](https://img.shields.io/badge/-learning-30363d?style=flat-square) |
+| ☁️ Cloud infrastructure · DevOps · advanced system design | ![](https://img.shields.io/badge/-learning-30363d?style=flat-square) |
+| 🔐 Production-grade security | ![](https://img.shields.io/badge/-learning-30363d?style=flat-square) |
+
+---
+
+## 🎨 Design Philosophy
+
+I care about interfaces that feel **premium, minimal, technical, interactive, smooth and distinctive**.
+
+| ✅ I aim for | ❌ I avoid |
+|:--|:--|
+| Clear visual hierarchy and typography | Generic AI-looking interfaces |
+| Purposeful motion and micro-interactions | Excessive gradients |
+| Distinctive, component-driven systems | Purple &quot;AI&quot; aesthetics |
+| Awwwards-inspired craft | Overused neon effects |
+| Layouts with a point of view | Template-like layouts |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ee6a8&icon_color=3ee6a8&text_color=c9d1d9&ring_color=3ee6a8" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ee6a8&text_color=c9d1d9" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3ee6a8&fire=3ee6a8&currStreakLabel=3ee6a8" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="Profile details"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
 
-# `08 // CURRENT MISSION`
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=MISSION%20CONTROL&fontSize=30&fontColor=ffffff&color=000000&animation=fadeIn" />
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3ee6a8"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3ee6a8"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3ee6a8"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3ee6a8"/></a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1300&pause=600&color=FFFFFF&center=true&vCenter=true&width=900&height=250&lines=%5BMISSION+01%5D+BUILD+REAL+PRODUCTS;%5BMISSION+02%5D+MASTER+CYBERSECURITY;%5BMISSION+03%5D+BUILD+AI+AGENTS;%5BMISSION+04%5D+SHIP+TO+REAL+USERS;%5BMISSION+05%5D+SOLVE+REAL+PROBLEMS;%5BMISSION+06%5D+TURN+PROJECTS+INTO+BUSINESSES;%5BMISSION+07%5D+KEEP+LEARNING;%5BMISSION+STATUS%5D+IN+PROGRESS..." />
+**Open to:** collaborations · internships · security labs · building interesting products
 
 </div>
 
----
-
-# `09 // GITHUB ACTIVITY`
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1b8a6b,100:0d1117&section=footer&reversal=true" width="100%" alt="footer"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kartikadtu-here&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikadtu-here&layout=compact&hide_border=true&theme=transparent" width="40%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kartikadtu-here&hide_border=true&theme=transparent" width="70%" />
-
-</div>
-
----
-
-# `10 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
- 11  ACTIVITY FEED
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1200&pause=600&color=FFFFFF&center=true&vCenter=true&width=850&height=230&lines=%3E+git+status;%3E+Changes+detected...;%3E+Writing+code...;%3E+Testing...;%3E+Breaking+things...;%3E+Fixing+things...;%3E+Securing+things...;%3E+git+add+.%3B;%3E+git+commit+-m+%22ship%22;%3E+git+push;%3E+Deployment+complete.;%3E+Next+build+loading..." />
-
-</div>
-
----
-
-# 12 // DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1600&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=180&lines=DON'T+JUST+LEARN+THE+TECH.;BUILD+WITH+IT.;DON'T+JUST+BUILD+IT.;BREAK+IT.;DON'T+JUST+BREAK+IT.;UNDERSTAND+WHY.;THEN+SECURE+IT." />
-
-</div>
-
----
-
-# 13  SYSTEM STATUS
-
-<div align="center">
-
-|         MODULE         |    STATUS   |
-| :--------------------: | :---------: |
-|      ⚡ Full-Stack      |  🟢 ONLINE  |
-|    🛡️ Cybersecurity   |  🟢 ONLINE  |
-|    🧠 AI Engineering   |  🟢 ONLINE  |
-|        🐧 Linux        |  🟢 ONLINE  |
-|        🐳 Docker       |  🟢 ONLINE  |
-|        ☁️ Cloud        | 🟡 LEARNING |
-|      🤖 AI Agents      | 🟢 BUILDING |
-| 🚀 Product Engineering | 🟢 SHIPPING |
-
-</div>
-
----
-
-<div align="center">
-
-# 14 // CONNECT
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=LET'S+BUILD+SOMETHING+USEFUL.;OPEN+TO+COLLABORATION.;OPEN+TO+INTERESTING+PROJECTS.;OPEN+TO+BUILDING." />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/kartikatcyb">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://github.com/kartikadtu-here">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&height=60&lines=THINK.;BUILD.;BREAK.;SECURE.;SHIP.;REPEAT." />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:050505,50:111111,100:050505" width="100%"/>
-
+<sub><code>while (alive) { learn(); build(); ship(); iterate(); }</code></sub>
 </div>
