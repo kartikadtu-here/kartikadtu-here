@@ -1,54 +1,249 @@
 <div align="center">
-  
-  # ⚡ Hello, I'm Kartik Gupta! ⚡
-  
-  <a href="https://kartikgupta.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=500&size=40&duration=4000&pause=1000&color=FF9F43&center=true&vCenter=true&width=600&height=80&lines=Full-Stack+Developer;AI+Product+Builder;Cybersecurity+Enthusiast;Creative+Technologist" alt="Typing SVG" />
-  </a>
 
-  <img src="https://media.giphy.com/media/qgQUggMaOtg86G22hN/giphy.gif" width="150" alt="Coding Animation" />
+# ⚡ KARTIK GUPTA
 
-  <p align="center">
-    <b>Building products, breaking boundaries, and shipping code.</b><br>
-    Currently learning, building, and iterating on real-world AI and full-stack applications.
-  </p>
-  
-  <p align="center">
-    <a href="https://kartikgupta.dev"><img src="https://img-shields.io/badge/Portfolio-FF9F43?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/kartikatcyb"><img src="https://img-shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:hello@kartikgupta.dev"><img src="https://img-shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
+### `Cybersecurity × Full-Stack × AI Product Builder`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+things+that+actually+work.;Cybersecurity+%7C+Full-Stack+%7C+AI;Turning+ideas+into+real+products.;Breaking+things.+Securing+them.+Building+again." alt="Typing animation" />
 
 <br>
 
-<div align="center">
-  <h3>🔥 My Stats</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikadtu-here&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF9F43&icon_color=4ECDC4" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikadtu-here&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9F43" height="195" alt="Top Languages" />
+<a href="https://www.linkedin.com/in/kartikatcyb">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/kartikadtu-here">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kartikadtu-here&style=flat-square&color=grey&label=PROFILE+VIEWS" />
+
 </div>
+
+---
+
+## `whoami`
+
+```bash
+$ whoami
+
+Kartik Gupta
+
+$ cat /about/kartik.txt
+
+BCA student + builder from India.
+Cybersecurity enthusiast.
+Full-stack developer.
+AI product builder.
+
+I don't just learn technologies.
+I build with them.
+```
+
+---
+
+<div align="center">
+
+## ⚙️ CURRENTLY BUILDING
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🛡️ Cybersecurity
+
+SOC / Blue Team
+Web Security
+Bug Bounty
+Network Security
+Linux Security
+OWASP
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 AI Products
+
+AI Agents
+AI SaaS
+Automation
+LLM Applications
+Product Engineering
+AI-powered workflows
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧬 TECH STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,supabase" />
+
+### Security & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,cloudflare" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧪 WHAT I'M GOOD AT
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   WEB DEVELOPMENT        ████████████████████░░   90%       │
+│   JAVASCRIPT / TS        ██████████████████░░░░   85%       │
+│   AI PRODUCT BUILDING    █████████████████░░░░░   80%       │
+│   CYBERSECURITY          ███████████████░░░░░░░   75%       │
+│   LINUX                  ███████████████░░░░░░░   75%       │
+│   UI / UX                █████████████████░░░░░   80%       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🚀 SELECTED BUILDS
+
+### 🧠 AI Syllabus Planner
+
+> Turning complicated academic syllabi into personalized learning plans.
+
+`AI` `SaaS` `Next.js` `Supabase` `Product Engineering`
+
+---
+
+### 🛡️ TenderOS
+
+> A full-stack platform designed around tender intelligence and workspace-based workflows.
+
+`Next.js` `Supabase` `Authentication` `PostgreSQL`
+
+---
+
+### 🏥 ClinicFlow
+
+> Appointment and clinic management platform.
+
+`Full Stack` `Database` `Authentication` `Dashboard`
+
+---
+
+### 🔐 Cybersecurity Lab
+
+> Hands-on security environment for learning offensive and defensive security.
+
+`Kali Linux` `Docker` `OWASP Juice Shop` `Burp Suite` `Wireshark`
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=kartikadtu-here&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikadtu-here&theme=tokyonight&hide_border=true&fire=FF9F43&ring=4ECDC4" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikadtu-here&hide_border=true&theme=transparent" />
 
 <br>
 
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <!-- This image will be automatically updated daily by the GitHub Action we set up! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikadtu-here/kartikadtu-here/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikadtu-here/kartikadtu-here/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kartikadtu-here/kartikadtu-here/output/github-contribution-grid-snake.svg">
-  </picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikadtu-here&layout=compact&hide_border=true&theme=transparent" />
+
 </div>
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION ACTIVITY
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🧠 CURRENT MISSION
+
+```text
+                         ┌─────────────────┐
+                         │      IDEA       │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │     BUILD       │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │     TEST        │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │    SECURE       │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │     SHIP        │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │    IMPROVE      │
+                         └─────────────────┘
+```
+
+**Build → Break → Secure → Ship → Repeat.**
+
+---
+
+<div align="center">
+
+## 🌐 FIND ME
+
+<a href="https://www.linkedin.com/in/kartikatcyb">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kartikadtu-here">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### `If I can imagine it, I'll probably build it.`
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,100:000000" />
+
 </div>
