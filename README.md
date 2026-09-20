@@ -388,7 +388,7 @@ I care about interfaces that feel **premium, minimal, technical, interactive, sm
 <a href="https://github.com/kartikadtu-here"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3ee6a8"/></a>
 <a href="https://www.linkedin.com/in/kartikatcyb"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3ee6a8"/></a>
 <a href="mailto:vortexvoiddev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3ee6a8"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3ee6a8"/></a>
+<a href="https://comic-portfolio-a06.pages.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3ee6a8"/></a>
 
 <br/><br/>
 
