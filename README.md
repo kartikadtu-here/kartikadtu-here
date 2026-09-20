@@ -26,7 +26,7 @@
 
 <div align="center">
 
-# `01 // WHOAMI`
+ WHOAMI
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1400&pause=600&color=00FF88&center=true&vCenter=true&width=900&height=180&lines=%24+whoami;%3E+Kartik+Gupta;%24+cat+%2Fetc%2Fprofile;%3E+BCA+%7C+Developer+%7C+Cybersecurity+Enthusiast;%3E+Full-Stack+Engineer;%3E+AI+Product+Builder;%3E+Linux+%2B+Cloud+%2B+Security;%24+./build_something.sh;%3E+SYSTEM+READY..." />
 
@@ -56,15 +56,15 @@
 
 <div align="center">
 
-# `02 // CURRENTLY BUILDING`
+ 02  CURRENTLY BUILDING
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&height=160&lines=%5B+BOOTING+PROJECTS...+%5D;%5B+01+%5D+AI+PRODUCTS;%5B+02+%5D+CYBERSECURITY+LABS;%5B+03+%5D+FULL-STACK+APPLICATIONS;%5B+04+%5D+AI+AGENTS;%5B+05+%5D+AUTOMATION;%5B+SYSTEM+STATUS%5D+ONLINE" />
 
 </div>
 
----
 
-# `03 // WHAT I'M GOOD AT`
+
+ 03  WHAT I'M GOOD AT
 
 <div align="center">
 
@@ -82,29 +82,29 @@
 
 ---
 
-# `04 // TECH STACK`
+04 TECH STACK
 
 <div align="center">
 
-### LANGUAGES
+ LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash" />
 
 <br><br>
 
-### FRONTEND
+ FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
 <br><br>
 
-### BACKEND
+BACKEND
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,supabase" />
 
 <br><br>
 
-### SECURITY / INFRASTRUCTURE
+ SECURITY / INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,cloudflare" />
 
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-# `05 // SECURITY MODE`
+05  SECURITY MODE
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1200&pause=600&color=00FF88&center=true&vCenter=true&width=900&height=220&lines=%24+sudo+./security.sh;%3E+Initializing+Kali+Linux...;%3E+Loading+network+security+modules...;%3E+Loading+HTTP%2FDNS%2FTCP-IP...;%3E+Loading+OWASP+methodology...;%3E+Loading+Burp+Suite...;%3E+Loading+Wireshark...;%3E+Loading+SIEM+%2F+log+analysis...;%3E+MITRE+ATT%26CK+knowledge+base...;%5B+SECURITY+LAB+ONLINE+%5D" />
 
@@ -145,9 +145,9 @@ NETWORK
  WIRESHARK  SIEM   MITRE ATT&CK
 ```
 
----
 
-# `06 // SELECTED BUILDS`
+
+06  SELECTED BUILDS
 
 <div align="center">
 
@@ -308,7 +308,7 @@ Hands-on security environment for experimenting with web security, networking an
 
 <div align="center">
 
-# `11 // ACTIVITY FEED`
+ 11  ACTIVITY FEED
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1200&pause=600&color=FFFFFF&center=true&vCenter=true&width=850&height=230&lines=%3E+git+status;%3E+Changes+detected...;%3E+Writing+code...;%3E+Testing...;%3E+Breaking+things...;%3E+Fixing+things...;%3E+Securing+things...;%3E+git+add+.%3B;%3E+git+commit+-m+%22ship%22;%3E+git+push;%3E+Deployment+complete.;%3E+Next+build+loading..." />
 
@@ -316,7 +316,7 @@ Hands-on security environment for experimenting with web security, networking an
 
 ---
 
-# `12 // DEVELOPMENT PHILOSOPHY`
+# 12 // DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
@@ -326,7 +326,7 @@ Hands-on security environment for experimenting with web security, networking an
 
 ---
 
-# `13 // SYSTEM STATUS`
+# 13  SYSTEM STATUS
 
 <div align="center">
 
@@ -347,7 +347,7 @@ Hands-on security environment for experimenting with web security, networking an
 
 <div align="center">
 
-# `14 // CONNECT`
+# 14 // CONNECT
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=LET'S+BUILD+SOMETHING+USEFUL.;OPEN+TO+COLLABORATION.;OPEN+TO+INTERESTING+PROJECTS.;OPEN+TO+BUILDING." />
 
